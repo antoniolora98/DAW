@@ -1,0 +1,1 @@
+Esta carpeta contiene información del el tercer trimestre de lenguaje de marcas

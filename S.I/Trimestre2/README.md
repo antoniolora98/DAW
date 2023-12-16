@@ -1,0 +1,1 @@
+Esta carpeta contiene información del el segundo trimestre de S.I

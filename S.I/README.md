@@ -1,0 +1,1 @@
+Aqui esta la informacion de sistemas informaticos
